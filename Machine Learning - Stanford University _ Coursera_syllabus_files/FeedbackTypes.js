@@ -1,0 +1,1 @@
+define("bundles/content-feedback/constants/FeedbackTypes",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Like:"LIKE_OR_DISLIKE",Flag:"FLAG",Rating:"STAR"}});

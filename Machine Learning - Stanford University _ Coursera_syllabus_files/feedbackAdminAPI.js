@@ -1,0 +1,1 @@
+define("bundles/content-feedback/api/feedbackAdminAPI",["require","exports","module","js/lib/api"],function(require,exports,module){"use strict";var e=require("js/lib/api"),i=new e("/api/feedbackAdmin.v1",{type:"rest"});module.exports=i});

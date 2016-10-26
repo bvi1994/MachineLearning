@@ -1,0 +1,1 @@
+define("vendor/cnpm/fluxible.v0-4/addons/createStore",["require","exports","module","vendor/cnpm/dispatchr.v0-3/addons/index"],function(require,exports,module){"use strict";module.exports=require("vendor/cnpm/dispatchr.v0-3/addons/index").createStore});
